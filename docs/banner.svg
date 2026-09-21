@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1757" width="1200" height="1757" role="img" aria-label="QUAD-UAV by RESHAPE LAB. Quadcopter firmware: ESP32 flight link and STM32F103C8 PID.">
+  <defs>
+    <clipPath id="frame"><rect width="1200" height="1757" rx="24"/></clipPath>
+    <filter id="smooth" x="-5%" y="-5%" width="110%" height="110%">
+      <feGaussianBlur stdDeviation="0.9"/>
+      <feComponentTransfer><feFuncA type="linear" slope="10" intercept="-4.5"/></feComponentTransfer>
+    </filter>
+    <path id="lg" d="M42 0h7v1h-7zM76 0h7v1h-7zM109 0h7v1h-7zM41 1h10v1h-10zM74 1h10v1h-10zM108 1h10v1h-10zM40 2h12v1h-12zM73 2h12v1h-12zM107 2h12v1h-12zM39 3h13v1h-13zM73 3h13v1h-13zM106 3h13v1h-13zM39 4h14v1h-14zM72 4h14v1h-14zM106 4h14v1h-14zM38 5h15v1h-15zM72 5h15v1h-15zM105 5h15v1h-15zM38 6h6v1h-6zM47 6h6v1h-6zM72 6h6v1h-6zM81 6h6v1h-6zM105 6h6v1h-6zM114 6h6v1h-6zM38 7h6v1h-6zM48 7h5v1h-5zM72 7h6v1h-6zM81 7h6v1h-6zM105 7h6v1h-6zM115 7h5v1h-5zM38 8h6v1h-6zM47 8h6v1h-6zM72 8h6v1h-6zM81 8h6v1h-6zM105 8h6v1h-6zM114 8h6v1h-6zM38 9h15v1h-15zM72 9h15v1h-15zM105 9h15v1h-15zM39 10h14v1h-14zM72 10h14v1h-14zM106 10h14v1h-14zM39 11h13v1h-13zM73 11h13v1h-13zM107 11h12v1h-12zM40 12h11v1h-11zM74 12h11v1h-11zM107 12h12v1h-12zM41 13h9v1h-9zM75 13h9v1h-9zM108 13h9v1h-9zM43 14h6v1h-6zM76 14h6v1h-6zM110 14h6v1h-6zM43 15h6v1h-6zM76 15h6v1h-6zM110 15h6v1h-6zM43 16h6v1h-6zM76 16h6v1h-6zM110 16h6v1h-6zM43 17h6v1h-6zM76 17h6v1h-6zM110 17h6v1h-6zM43 18h6v1h-6zM76 18h6v1h-6zM110 18h6v1h-6zM43 19h6v1h-6zM76 19h6v1h-6zM110 19h6v1h-6zM43 20h6v1h-6zM76 20h6v1h-6zM110 20h6v1h-6zM43 21h6v1h-6zM76 21h6v1h-6zM110 21h6v1h-6zM43 22h6v1h-6zM76 22h6v1h-6zM110 22h6v1h-6zM43 23h6v1h-6zM76 23h6v1h-6zM110 23h6v1h-6zM43 24h6v1h-6zM76 24h6v1h-6zM110 24h6v1h-6zM43 25h6v1h-6zM76 25h6v1h-6zM110 25h6v1h-6zM43 26h6v1h-6zM76 26h6v1h-6zM110 26h6v1h-6zM43 27h6v1h-6zM76 27h6v1h-6zM110 27h6v1h-6zM43 28h6v1h-6zM76 28h6v1h-6zM110 28h6v1h-6zM43 29h6v1h-6zM76 29h6v1h-6zM109 29h7v1h-7zM43 30h8v1h-8zM76 30h6v1h-6zM108 30h8v1h-8zM43 31h9v1h-9zM76 31h6v1h-6zM106 31h9v1h-9zM44 32h9v1h-9zM76 32h6v1h-6zM105 32h9v1h-9zM45 33h9v1h-9zM76 33h6v1h-6zM104 33h9v1h-9zM46 34h10v1h-10zM76 34h6v1h-6zM103 34h9v1h-9zM48 35h9v1h-9zM76 35h6v1h-6zM101 35h10v1h-10zM49 36h9v1h-9zM76 36h6v1h-6zM100 36h9v1h-9zM50 37h9v1h-9zM76 37h6v1h-6zM99 37h9v1h-9zM52 38h9v1h-9zM76 38h6v1h-6zM98 38h9v1h-9zM53 39h9v1h-9zM76 39h6v1h-6zM97 39h9v1h-9zM54 40h9v1h-9zM76 40h6v1h-6zM95 40h9v1h-9zM55 41h9v1h-9zM76 41h6v1h-6zM94 41h9v1h-9zM56 42h10v1h-10zM76 42h6v1h-6zM93 42h9v1h-9zM58 43h9v1h-9zM76 43h6v1h-6zM92 43h9v1h-9zM59 44h9v1h-9zM76 44h6v1h-6zM91 44h9v1h-9zM25 45h3v1h-3zM60 45h9v1h-9zM76 45h6v1h-6zM89 45h10v1h-10zM24 46h6v1h-6zM51 46h3v1h-3zM61 46h9v1h-9zM76 46h6v1h-6zM88 46h9v1h-9zM23 47h10v1h-10zM48 47h7v1h-7zM62 47h8v1h-8zM76 47h6v1h-6zM88 47h8v1h-8zM22 48h13v1h-13zM46 48h9v1h-9zM64 48h6v1h-6zM76 48h6v1h-6zM88 48h7v1h-7zM21 49h16v1h-16zM44 49h11v1h-11zM65 49h5v1h-5zM76 49h6v1h-6zM88 49h6v1h-6zM20 50h20v1h-20zM42 50h13v1h-13zM65 50h5v1h-5zM76 50h6v1h-6zM88 50h6v1h-6zM19 51h36v1h-36zM65 51h5v1h-5zM76 51h6v1h-6zM88 51h6v1h-6zM18 52h37v1h-37zM65 52h5v1h-5zM76 52h6v1h-6zM88 52h6v1h-6zM17 53h38v1h-38zM65 53h5v1h-5zM76 53h6v1h-6zM88 53h6v1h-6zM16 54h39v1h-39zM65 54h5v1h-5zM76 54h6v1h-6zM88 54h6v1h-6zM15 55h40v1h-40zM65 55h5v1h-5zM76 55h6v1h-6zM88 55h6v1h-6zM15 56h40v1h-40zM65 56h5v1h-5zM76 56h6v1h-6zM88 56h6v1h-6zM15 57h40v1h-40zM65 57h5v1h-5zM76 57h6v1h-6zM88 57h6v1h-6zM16 58h39v1h-39zM65 58h5v1h-5zM76 58h6v1h-6zM88 58h6v1h-6zM171 58h5v1h-5zM16 59h39v1h-39zM65 59h5v1h-5zM76 59h6v1h-6zM88 59h6v1h-6zM169 59h9v1h-9zM17 60h38v1h-38zM65 60h5v1h-5zM76 60h6v1h-6zM88 60h6v1h-6zM168 60h11v1h-11zM17 61h38v1h-38zM65 61h5v1h-5zM76 61h6v1h-6zM88 61h6v1h-6zM167 61h13v1h-13zM18 62h37v1h-37zM65 62h5v1h-5zM76 62h6v1h-6zM88 62h6v1h-6zM166 62h14v1h-14zM18 63h37v1h-37zM65 63h5v1h-5zM76 63h6v1h-6zM88 63h6v1h-6zM149 63h32v1h-32zM18 64h37v1h-37zM65 64h5v1h-5zM76 64h6v1h-6zM88 64h6v1h-6zM148 64h24v1h-24zM175 64h6v1h-6zM19 65h36v1h-36zM65 65h5v1h-5zM76 65h6v1h-6zM88 65h6v1h-6zM148 65h24v1h-24zM175 65h6v1h-6zM19 66h35v1h-35zM65 66h5v1h-5zM76 66h6v1h-6zM88 66h6v1h-6zM147 66h25v1h-25zM175 66h6v1h-6zM20 67h33v1h-33zM65 67h5v1h-5zM76 67h6v1h-6zM88 67h6v1h-6zM146 67h27v1h-27zM174 67h7v1h-7zM20 68h31v1h-31zM65 68h5v1h-5zM76 68h6v1h-6zM88 68h6v1h-6zM145 68h36v1h-36zM20 69h29v1h-29zM65 69h5v1h-5zM76 69h6v1h-6zM88 69h6v1h-6zM144 69h8v1h-8zM167 69h13v1h-13zM21 70h27v1h-27zM65 70h5v1h-5zM76 70h6v1h-6zM88 70h6v1h-6zM143 70h8v1h-8zM167 70h12v1h-12zM21 71h26v1h-26zM65 71h5v1h-5zM76 71h6v1h-6zM88 71h6v1h-6zM142 71h8v1h-8zM168 71h10v1h-10zM20 72h25v1h-25zM65 72h5v1h-5zM76 72h6v1h-6zM88 72h6v1h-6zM141 72h8v1h-8zM170 72h7v1h-7zM20 73h24v1h-24zM65 73h5v1h-5zM76 73h6v1h-6zM88 73h6v1h-6zM141 73h7v1h-7zM19 74h25v1h-25zM65 74h5v1h-5zM76 74h6v1h-6zM88 74h6v1h-6zM140 74h8v1h-8zM19 75h23v1h-23zM65 75h5v1h-5zM76 75h6v1h-6zM88 75h6v1h-6zM139 75h8v1h-8zM18 76h23v1h-23zM60 76h39v1h-39zM138 76h8v1h-8zM18 77h23v1h-23zM58 77h42v1h-42zM137 77h8v1h-8zM18 78h22v1h-22zM57 78h44v1h-44zM137 78h7v1h-7zM17 79h22v1h-22zM56 79h46v1h-46zM136 79h7v1h-7zM17 80h22v1h-22zM56 80h47v1h-47zM135 80h7v1h-7zM16 81h22v1h-22zM55 81h48v1h-48zM134 81h8v1h-8zM16 82h22v1h-22zM55 82h48v1h-48zM133 82h8v1h-8zM16 83h21v1h-21zM55 83h48v1h-48zM132 83h8v1h-8zM15 84h22v1h-22zM55 84h49v1h-49zM131 84h8v1h-8zM15 85h21v1h-21zM55 85h83v1h-83zM13 86h23v1h-23zM55 86h82v1h-82zM10 87h26v1h-26zM55 87h82v1h-82zM7 88h28v1h-28zM55 88h81v1h-81zM5 89h30v1h-30zM55 89h80v1h-80zM2 90h33v1h-33zM55 90h78v1h-78zM1 91h33v1h-33zM55 91h48v1h-48zM0 92h34v1h-34zM55 92h49v1h-49zM170 92h7v1h-7zM0 93h34v1h-34zM55 93h48v1h-48zM169 93h9v1h-9zM0 94h34v1h-34zM55 94h49v1h-49zM168 94h11v1h-11zM0 95h34v1h-34zM55 95h49v1h-49zM167 95h13v1h-13zM0 96h34v1h-34zM55 96h126v1h-126zM0 97h34v1h-34zM55 97h126v1h-126zM0 98h33v1h-33zM55 98h117v1h-117zM175 98h6v1h-6zM0 99h33v1h-33zM55 99h117v1h-117zM175 99h6v1h-6zM0 100h33v1h-33zM55 100h117v1h-117zM175 100h6v1h-6zM0 101h34v1h-34zM55 101h126v1h-126zM0 102h34v1h-34zM55 102h49v1h-49zM166 102h14v1h-14zM0 103h34v1h-34zM55 103h48v1h-48zM167 103h13v1h-13zM0 104h34v1h-34zM55 104h48v1h-48zM168 104h11v1h-11zM0 105h34v1h-34zM55 105h48v1h-48zM169 105h9v1h-9zM0 106h34v1h-34zM55 106h48v1h-48zM171 106h5v1h-5zM1 107h33v1h-33zM55 107h49v1h-49zM3 108h32v1h-32zM55 108h78v1h-78zM6 109h29v1h-29zM55 109h80v1h-80zM8 110h27v1h-27zM55 110h81v1h-81zM10 111h26v1h-26zM55 111h81v1h-81zM13 112h23v1h-23zM55 112h82v1h-82zM15 113h21v1h-21zM55 113h83v1h-83zM15 114h22v1h-22zM55 114h49v1h-49zM131 114h8v1h-8zM16 115h21v1h-21zM55 115h48v1h-48zM132 115h8v1h-8zM16 116h22v1h-22zM55 116h48v1h-48zM133 116h8v1h-8zM16 117h22v1h-22zM56 117h47v1h-47zM134 117h7v1h-7zM17 118h22v1h-22zM56 118h47v1h-47zM135 118h7v1h-7zM17 119h23v1h-23zM56 119h46v1h-46zM136 119h7v1h-7zM18 120h22v1h-22zM57 120h44v1h-44zM136 120h8v1h-8zM18 121h23v1h-23zM59 121h41v1h-41zM137 121h8v1h-8zM18 122h24v1h-24zM61 122h37v1h-37zM138 122h7v1h-7zM19 123h24v1h-24zM65 123h5v1h-5zM76 123h6v1h-6zM88 123h6v1h-6zM139 123h7v1h-7zM19 124h25v1h-25zM65 124h5v1h-5zM76 124h6v1h-6zM88 124h6v1h-6zM140 124h7v1h-7zM20 125h25v1h-25zM65 125h5v1h-5zM76 125h6v1h-6zM88 125h6v1h-6zM141 125h7v1h-7zM171 125h4v1h-4zM20 126h26v1h-26zM65 126h5v1h-5zM76 126h6v1h-6zM88 126h6v1h-6zM141 126h8v1h-8zM170 126h7v1h-7zM21 127h26v1h-26zM65 127h5v1h-5zM76 127h6v1h-6zM88 127h6v1h-6zM142 127h8v1h-8zM168 127h11v1h-11zM21 128h27v1h-27zM65 128h5v1h-5zM76 128h6v1h-6zM88 128h6v1h-6zM143 128h7v1h-7zM167 128h12v1h-12zM20 129h30v1h-30zM65 129h5v1h-5zM76 129h6v1h-6zM88 129h6v1h-6zM144 129h7v1h-7zM167 129h13v1h-13zM20 130h31v1h-31zM65 130h5v1h-5zM76 130h6v1h-6zM88 130h6v1h-6zM145 130h36v1h-36zM20 131h33v1h-33zM65 131h5v1h-5zM76 131h6v1h-6zM88 131h6v1h-6zM145 131h28v1h-28zM174 131h7v1h-7zM19 132h35v1h-35zM65 132h5v1h-5zM76 132h6v1h-6zM88 132h6v1h-6zM146 132h26v1h-26zM175 132h6v1h-6zM19 133h36v1h-36zM65 133h5v1h-5zM76 133h6v1h-6zM88 133h6v1h-6zM147 133h25v1h-25zM175 133h6v1h-6zM18 134h37v1h-37zM65 134h5v1h-5zM76 134h6v1h-6zM88 134h6v1h-6zM148 134h24v1h-24zM174 134h7v1h-7zM18 135h37v1h-37zM65 135h5v1h-5zM76 135h6v1h-6zM88 135h6v1h-6zM149 135h32v1h-32zM17 136h38v1h-38zM65 136h5v1h-5zM76 136h6v1h-6zM88 136h6v1h-6zM167 136h13v1h-13zM17 137h38v1h-38zM65 137h5v1h-5zM76 137h6v1h-6zM88 137h6v1h-6zM167 137h12v1h-12zM17 138h38v1h-38zM65 138h5v1h-5zM76 138h6v1h-6zM88 138h6v1h-6zM168 138h11v1h-11zM16 139h39v1h-39zM65 139h5v1h-5zM76 139h6v1h-6zM88 139h6v1h-6zM169 139h9v1h-9zM16 140h39v1h-39zM65 140h5v1h-5zM76 140h6v1h-6zM88 140h6v1h-6zM172 140h3v1h-3zM15 141h40v1h-40zM65 141h5v1h-5zM76 141h6v1h-6zM88 141h6v1h-6zM15 142h40v1h-40zM65 142h5v1h-5zM76 142h6v1h-6zM88 142h6v1h-6zM15 143h40v1h-40zM65 143h5v1h-5zM76 143h6v1h-6zM88 143h6v1h-6zM16 144h39v1h-39zM65 144h5v1h-5zM76 144h6v1h-6zM88 144h6v1h-6zM17 145h38v1h-38zM65 145h5v1h-5zM76 145h6v1h-6zM88 145h6v1h-6zM18 146h37v1h-37zM65 146h5v1h-5zM76 146h6v1h-6zM88 146h6v1h-6zM19 147h36v1h-36zM65 147h5v1h-5zM76 147h6v1h-6zM88 147h6v1h-6zM20 148h19v1h-19zM42 148h13v1h-13zM65 148h5v1h-5zM76 148h6v1h-6zM88 148h6v1h-6zM21 149h16v1h-16zM44 149h11v1h-11zM65 149h5v1h-5zM76 149h6v1h-6zM88 149h6v1h-6zM22 150h12v1h-12zM47 150h8v1h-8zM64 150h6v1h-6zM76 150h6v1h-6zM88 150h6v1h-6zM23 151h9v1h-9zM49 151h6v1h-6zM63 151h7v1h-7zM76 151h6v1h-6zM88 151h7v1h-7zM24 152h6v1h-6zM51 152h2v1h-2zM62 152h8v1h-8zM76 152h6v1h-6zM88 152h8v1h-8zM26 153h2v1h-2zM60 153h9v1h-9zM76 153h6v1h-6zM89 153h9v1h-9zM59 154h9v1h-9zM76 154h6v1h-6zM90 154h9v1h-9zM58 155h9v1h-9zM76 155h6v1h-6zM91 155h9v1h-9zM57 156h9v1h-9zM76 156h6v1h-6zM92 156h9v1h-9zM56 157h9v1h-9zM76 157h6v1h-6zM94 157h8v1h-8zM54 158h9v1h-9zM76 158h6v1h-6zM95 158h9v1h-9zM53 159h9v1h-9zM76 159h6v1h-6zM96 159h9v1h-9zM52 160h9v1h-9zM76 160h6v1h-6zM97 160h9v1h-9zM51 161h9v1h-9zM76 161h6v1h-6zM98 161h9v1h-9zM50 162h9v1h-9zM76 162h6v1h-6zM99 162h9v1h-9zM49 163h8v1h-8zM76 163h6v1h-6zM100 163h9v1h-9zM48 164h9v1h-9zM76 164h6v1h-6zM101 164h10v1h-10zM46 165h9v1h-9zM76 165h6v1h-6zM103 165h9v1h-9zM45 166h9v1h-9zM76 166h6v1h-6zM104 166h9v1h-9zM44 167h9v1h-9zM76 167h6v1h-6zM105 167h9v1h-9zM43 168h9v1h-9zM76 168h6v1h-6zM106 168h9v1h-9zM43 169h7v1h-7zM76 169h6v1h-6zM107 169h9v1h-9zM43 170h6v1h-6zM76 170h6v1h-6zM109 170h7v1h-7zM43 171h6v1h-6zM76 171h6v1h-6zM110 171h6v1h-6zM43 172h6v1h-6zM76 172h6v1h-6zM110 172h6v1h-6zM43 173h6v1h-6zM76 173h6v1h-6zM110 173h6v1h-6zM43 174h6v1h-6zM76 174h6v1h-6zM110 174h6v1h-6zM43 175h6v1h-6zM76 175h6v1h-6zM110 175h6v1h-6zM43 176h6v1h-6zM76 176h6v1h-6zM110 176h6v1h-6zM43 177h6v1h-6zM76 177h6v1h-6zM110 177h6v1h-6zM43 178h6v1h-6zM76 178h6v1h-6zM110 178h6v1h-6zM43 179h6v1h-6zM76 179h6v1h-6zM110 179h6v1h-6zM43 180h6v1h-6zM76 180h6v1h-6zM110 180h6v1h-6zM43 181h6v1h-6zM76 181h6v1h-6zM110 181h6v1h-6zM43 182h6v1h-6zM76 182h6v1h-6zM110 182h6v1h-6zM43 183h6v1h-6zM76 183h6v1h-6zM110 183h6v1h-6zM43 184h6v1h-6zM76 184h6v1h-6zM110 184h6v1h-6zM43 185h6v1h-6zM76 185h6v1h-6zM110 185h6v1h-6zM41 186h9v1h-9zM75 186h9v1h-9zM108 186h9v1h-9zM40 187h11v1h-11zM74 187h11v1h-11zM107 187h12v1h-12zM39 188h13v1h-13zM73 188h13v1h-13zM106 188h13v1h-13zM39 189h14v1h-14zM72 189h14v1h-14zM106 189h14v1h-14zM38 190h15v1h-15zM72 190h15v1h-15zM105 190h15v1h-15zM38 191h6v1h-6zM47 191h6v1h-6zM72 191h6v1h-6zM81 191h6v1h-6zM105 191h6v1h-6zM114 191h6v1h-6zM38 192h6v1h-6zM48 192h5v1h-5zM72 192h6v1h-6zM81 192h6v1h-6zM105 192h6v1h-6zM115 192h5v1h-5zM38 193h6v1h-6zM47 193h6v1h-6zM72 193h6v1h-6zM81 193h6v1h-6zM105 193h6v1h-6zM114 193h6v1h-6zM38 194h15v1h-15zM72 194h15v1h-15zM105 194h15v1h-15zM39 195h14v1h-14zM72 195h14v1h-14zM106 195h14v1h-14zM39 196h13v1h-13zM73 196h13v1h-13zM106 196h13v1h-13zM40 197h12v1h-12zM73 197h12v1h-12zM107 197h12v1h-12zM41 198h10v1h-10zM74 198h10v1h-10zM108 198h10v1h-10zM42 199h7v1h-7zM76 199h7v1h-7zM109 199h7v1h-7z"/>
+  </defs>
+  <style>
+    .serif { font-family: 'Tiempos Headline', Georgia, 'Times New Roman', serif; }
+    .sans  { font-family: 'Styrene A', -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .mono  { font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+
+    /* 1. intro: the logo drops in from the top (0-1.7s), holds, then splits in two (2.8-4.4s) */
+    .lg-a { animation: split-a 5s both; }
+    .lg-b { animation: split-b 5s both; }
+    .lg-a use, .lg-b use { animation: tint 5s both; }
+    @keyframes split-a {
+      0%   { transform: translate(450px, -420px) scale(1.66); animation-timing-function: cubic-bezier(.5,0,1,.6) }
+      18%  { transform: translate(450px, 334px) scale(1.66);  animation-timing-function: ease-out }
+      26%  { transform: translate(450px, 280px) scale(1.66);  animation-timing-function: ease-in }
+      34%  { transform: translate(450px, 334px) scale(1.66) }
+      56%  { transform: translate(450px, 334px) scale(1.66);  animation-timing-function: cubic-bezier(.65,0,.35,1) }
+      88%, 100% { transform: translate(-333px, -368px) scale(5.525) }
+    }
+    @keyframes split-b {
+      0%   { transform: translate(450px, -420px) scale(1.66); animation-timing-function: cubic-bezier(.5,0,1,.6) }
+      18%  { transform: translate(450px, 334px) scale(1.66);  animation-timing-function: ease-out }
+      26%  { transform: translate(450px, 280px) scale(1.66);  animation-timing-function: ease-in }
+      34%  { transform: translate(450px, 334px) scale(1.66) }
+      56%  { transform: translate(450px, 334px) scale(1.66);  animation-timing-function: cubic-bezier(.65,0,.35,1) }
+      88%, 100% { transform: translate(533px, 1020px) scale(5.525) }
+    }
+    @keyframes tint { 0%, 56% { fill: #F1EFE8 } 88%, 100% { fill: #1E1E1D } }
+    .brand { transform-box: fill-box; transform-origin: 50% 50%; animation: brand 5s both; }
+    @keyframes brand {
+      0%, 20% { opacity: 0; transform: scale(1.9) }
+      26%  { opacity: 1; transform: scale(1.9) }
+      36%  { opacity: 1; transform: scale(1) }
+      52%  { opacity: 1; transform: scale(1) }
+      60%, 100% { opacity: 0; transform: scale(1) }
+    }
+
+    /* 2. then the information appears, section by section */
+    .info { animation: show .9s ease-out both; }
+    .i1 { animation-delay: 4.3s } .i2 { animation-delay: 4.7s } .i3 { animation-delay: 5.1s } .i4 { animation-delay: 5.5s }
+    @keyframes show { from { opacity: 0; transform: translateY(14px) } to { opacity: 1; transform: translateY(0) } }
+
+    /* 3. idle motion */
+    .float { animation: drift 11s ease-in-out 5s infinite alternate; }
+    .float.b { animation-name: drift2; animation-duration: 14s; }
+    @keyframes drift  { from { transform: translate(0, 0) } to { transform: translate(-16px, 22px) } }
+    @keyframes drift2 { from { transform: translate(0, 0) } to { transform: translate(16px, -22px) } }
+    .flame { transform-box: fill-box; transform-origin: 50% 100%; animation: flicker 2.4s ease-in-out infinite; }
+    @keyframes flicker {
+      0%, 100% { transform: scale(1, 1) skewX(0deg); stroke-opacity: 1 }
+      25% { transform: scale(1.03, 1.06) skewX(-2deg); stroke-opacity: .85 }
+      50% { transform: scale(.98, 1.02) skewX(1.5deg); stroke-opacity: 1 }
+      75% { transform: scale(1.02, 1.05) skewX(-1deg); stroke-opacity: .9 }
+    }
+    .spark { opacity: 0; animation: rise 3s ease-out infinite; }
+    .spark.s2 { animation-delay: 1.4s; }
+    @keyframes rise { 0% { opacity: 0; transform: translateY(6px) } 25% { opacity: .9 } 100% { opacity: 0; transform: translateY(-16px) } }
+    @media (prefers-reduced-motion: reduce) {
+      .lg-a, .lg-b, .lg-a use, .lg-b use, .info, .float, .flame, .spark { animation: none }
+      .brand { display: none }
+    }
+  </style>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="1757" fill="#0E0E0E"/>
+
+    <g class="float a"><g class="lg-a" transform="translate(-333 -368) scale(5.525)" filter="url(#smooth)"><use href="#lg" fill="#1E1E1D"/></g></g>
+    <g class="float b"><g class="lg-b" transform="translate(533 1020) scale(5.525)" filter="url(#smooth)"><use href="#lg" fill="#1E1E1D"/></g></g>
+    <text class="brand mono" x="600" y="756" font-size="26" letter-spacing="9" text-anchor="middle" fill="#F1EFE8">RESHAPE LAB</text>
+
+    <g class="info i1">
+      <line x1="100" y1="420" x2="1100" y2="420" stroke="#33332F" stroke-width="2"/>
+      <text class="mono" font-size="19" letter-spacing="4.5" fill="#8B8983" x="100" y="120">RESHAPE LAB</text>
+      <text class="serif" font-size="110" fill="#F1EFE8" x="94" y="262">QUAD-UAV</text>
+      <text class="sans" font-size="30" fill="#F1EFE8" x="100" y="340">Quadcopter firmware:</text>
+      <text class="sans" font-size="30" fill="#F1EFE8" x="100" y="384">ESP32 flight link and STM32F103C8 PID.</text>
+    </g>
+    <g class="info i2">
+      <text class="serif" font-size="72" fill="#F1EFE8" x="96" y="516">FIRMWARE</text>
+      <text class="mono" font-size="19" letter-spacing="4.5" fill="#8B8983" x="100" y="600">ESP32  &#183;  esp32_drone</text>
+      <text class="sans" font-size="30" fill="#F1EFE8" x="100" y="641">IMU, GPS, RC in, DShot out, telemetry, web dashboard</text>
+      <text class="mono" font-size="19" fill="#77756E" x="100" y="675">main_esp32.cpp</text>
+      <text class="mono" font-size="19" letter-spacing="4.5" fill="#8B8983" x="100" y="740">STM32F103C8  &#183;  stm32_drone</text>
+      <text class="sans" font-size="30" fill="#F1EFE8" x="100" y="781">Cascade PID and motor mixing</text>
+      <text class="mono" font-size="19" fill="#77756E" x="100" y="815">main_stm32f103c8t6.cpp  &#183;  Flight.cpp  &#183;  Motor.cpp</text>
+      <line x1="100" y1="870" x2="1100" y2="870" stroke="#33332F" stroke-width="2"/>
+    </g>
+    <g class="info i3">
+      <text class="serif" font-size="72" fill="#F1EFE8" x="96" y="966">DATA LINKS</text>
+      <text class="mono" font-size="19" letter-spacing="4.5" fill="#8B8983" x="100" y="1050">ESP-NOW  /  NRF24</text>
+      <text class="sans" font-size="30" fill="#F1EFE8" x="100" y="1091">Receives RC from the handheld, sends telemetry back</text>
+      <text class="mono" font-size="19" fill="#77756E" x="100" y="1125">RF_RX.cpp</text>
+      <text class="mono" font-size="19" letter-spacing="4.5" fill="#8B8983" x="100" y="1190">UART</text>
+      <text class="sans" font-size="30" fill="#F1EFE8" x="100" y="1231">ESP32 to STM32: RC down, MotorMix up</text>
+      <text class="mono" font-size="19" fill="#77756E" x="100" y="1265">UART.cpp</text>
+      <line x1="100" y1="1320" x2="1100" y2="1320" stroke="#33332F" stroke-width="2"/>
+    </g>
+    <g class="info i4">
+      <text class="serif" font-size="72" fill="#F1EFE8" x="96" y="1416">RELATED REPOS</text>
+      <text class="mono" font-size="19" letter-spacing="4.5" fill="#8B8983" x="100" y="1500">JS-CONTROLER</text>
+      <text class="sans" font-size="30" fill="#F1EFE8" x="100" y="1541">Handheld controller. src/RF_Protocol.h is shared, keep both in sync</text>
+      <text class="mono" font-size="19" letter-spacing="4.5" fill="#8B8983" x="100" y="1606">GCS-STATION</text>
+      <text class="sans" font-size="30" fill="#F1EFE8" x="100" y="1647">Ground station and flight simulator</text>
+    </g>
+  </g>
+</svg>

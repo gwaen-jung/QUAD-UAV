@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="docs/banner.svg" alt="QUAD-UAV by RESHAPE LAB: quadcopter firmware, ESP32 flight link and STM32F103C8 PID" width="100%">
+
+</div>
+
 # QUAD-UAV
 
 Firmware cho quadcopter: **ESP32** (IMU BNO08x, GPS, nhận RC qua ESP-NOW/NRF24, xuất DShot, telemetry, web dashboard) + **STM32F103C8** (cascade PID, motor mixing).
